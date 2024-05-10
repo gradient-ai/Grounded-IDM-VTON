@@ -1,4 +1,5 @@
 transformers==4.36.2
+timm
 torch==2.0.1
 torchvision==0.15.2
 torchaudio==2.0.2
@@ -21,3 +22,8 @@ fvcore
 cloudpickle
 omegaconf
 pycocotools
+spaces
+gradio
+urllib3==1.26.18
+protobuf==3.20
+wandb==0.16.6
